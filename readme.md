@@ -1,0 +1,1 @@
+<img src="./images/responsive-cards.png" alt="">
